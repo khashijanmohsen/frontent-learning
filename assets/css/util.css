@@ -2440,7 +2440,7 @@
 .no-border{
 	border: unset !important;
 }
-
+.rounded_pill{border-radius: 5rem;}
 
 
 
